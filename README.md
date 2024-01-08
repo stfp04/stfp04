@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome to the hut Wanderer 👋
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://cdn.pixabay.com/photo/2020/02/09/09/39/smiley-4832495_1280.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://cdn.pixabay.com/photo/2020/02/09/09/39/smiley-4832495_1280.png">
+ <img alt="cat" src="https://cdn.pixabay.com/photo/2020/02/09/09/39/smiley-4832495_1280.png">
+</picture>
+
 
 <!--
 **stfp04/stfp04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
